@@ -1,1 +1,0 @@
-APP_CONF = 'test_CONFIG'
