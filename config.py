@@ -1,1 +1,1 @@
-APP_CONF = 'gitTest_CONFIG'
+APP_CONF = 'gitTest_branch04'
